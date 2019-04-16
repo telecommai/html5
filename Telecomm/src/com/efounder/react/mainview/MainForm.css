@@ -1,0 +1,88 @@
+.ant-list-item-meta-avatar {
+    float:left;
+}
+.ant-list-item-meta-content{
+	padding-left: 25px;
+	float:left;
+}
+.ant-table.ant-table-small.ant-table-scroll-position-left{
+	border:0;
+}
+.ant-table-placeholder{
+	background-color: transparent;
+}
+
+.ant-table-small>.ant-table-content>.ant-table-body>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-fixed-left>.ant-table-body-outer>.ant-table-body-inner>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-fixed-left>.ant-table-header>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-fixed-right>.ant-table-body-outer>.ant-table-body-inner>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-fixed-right>.ant-table-header>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-header>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-scroll>.ant-table-body>table>.ant-table-thead>tr>th, .ant-table-small>.ant-table-content>.ant-table-scroll>.ant-table-header>table>.ant-table-thead>tr>th{
+	background-color: #183257
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected{
+    background-color: transparent;
+}
+
+ ::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: #dcdcdc;
+}
+
+::-webkit-scrollbar
+{
+    width: 10px;
+    background-color: #dcdcdc;
+    border-radius: 5px;
+}
+::-webkit-scrollbar:horizontal{
+    height: 10px;
+    background-color: #dcdcdc;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #cdcdcd;
+}
+/* ::-webkit-scrollbar {  滚动条整体部分
+    width:10px;
+    margin-right:2px;
+    background-color: #0a182d;
+}
+::-webkit-scrollbar-button { 滚动条两端的按钮
+
+}
+::-webkit-scrollbar:horizontal {
+    height:10px;
+    margin-bottom:2px
+}
+::-webkit-scrollbar-track {  外层轨道
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track-piece {  内层轨道，滚动条中间部分
+    background-color: #0a182d;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {  滑块
+    width:10px;
+    border-radius: 5px;
+    background: #073552;
+}
+::-webkit-scrollbar-corner { 边角
+    width: 10px;
+    background-color: red;
+}
+::-webkit-scrollbar-thumb:hover { 鼠标移入滑块
+    
+} */
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #6a82a5; opacity:1; 
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #6a82a5;opacity:1;
+}
+input:-ms-input-placeholder{
+    color: #6a82a5;opacity:1;
+}
+input::-webkit-input-placeholder{
+    color: #6a82a5;
+}

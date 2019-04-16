@@ -1,0 +1,20 @@
+{
+	"bgcolor": "#183257",
+	"titlebgcolor": "#183257",
+	"listbgcolor": "##E6E6E6",
+	"infobgcolor": "#042439",
+	"listfontcolor": "#108ee9",
+	"btnBgColor": "#108ee9",
+	"fontcolor": "#108ee9",
+	"chatbreviarymsgcolor": "#6A82A5",
+	"myPopbgcolor": "#FFC87C",
+	"Popbgcolor": "#6987A7",
+	"linecolor": "#073552",
+	"bluefontcolor": "#108ee9",
+	"wltitlecolor": "#165da3",
+	"wllistcolor": "#183457",
+	"wlinfocolor": "#15447c",
+	"wlmoneycolor": "#FFE696",
+	"wlrowclick": "#214a7f",
+	"wlTabsBgColor": "#183257"
+}

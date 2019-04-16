@@ -1,0 +1,40 @@
+.ant-form-item{
+    display:-moz-box;  /* Firefox */
+    display:-ms-flexbox;    /* IE10 */
+    display:-webkit-box;    /* Safari */ 
+    display:-webkit-flex;    /* Chrome, WebKit */
+    display:box; 
+    display:flexbox; 
+    display:flex;
+    align-items: center;
+}
+.ant-form-item-label label{
+    color:#FFF !important;
+}
+.ant-form-item{
+    font-size:12px;
+    color:rgba(0, 0, 0, 0.65);
+    margin-bottom:10px !important;
+    vertical-align:top;
+}
+.ant-form-item-control{
+    line-height:200% !important;
+}
+.ant-form-item-label{
+    line-height:200% !important;
+}
+.ant-form-item-label label:after{
+    content:''!important;
+    margin:0 !important;
+}
+/*.ant-select-selection--single{*/
+    /*height:100% !important;*/
+/*}*/
+/*.ant-select-selection ant-select-selection--single{*/
+    /*height:100% !important;*/
+/*}*/
+/*.ant-select-selection__rendered{*/
+    /*display: flex !important;*/
+    /*align-items: center !important;*/
+    /*height: 100% !important;*/
+/*}*/
